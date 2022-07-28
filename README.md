@@ -1,9 +1,7 @@
 # Designathon2022
 Designathon 2022 - Design to Code Project
 
-Team Name : Hash Bytes
-Team Leader : Sumit Kumar Sinha
-Team Member : Reetesh Tiwari
+
 
 Instructions to run the file:
 
